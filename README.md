@@ -2,6 +2,11 @@
 
 Minimart React App
 
+Objectives Attempted:
+1. Features for CRUD of products
+2. API calling to appserver
+3. UI Framework: antd
+
 ## Getting Started 
 
 Ensure Node and npm is installed 
